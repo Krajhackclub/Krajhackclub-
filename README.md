@@ -1,2 +1,3 @@
 # Krajhackclub-
-Hardware hacker building custom tech with Hack Club. Working with Fusion 360, 3D printing, and microcontrollers.
+# ClickCraft
+ClickCraft is a hand wired mechanical macropad using a Raspberry Pi Pico and a Fusion 360 designed 3D printed case. Built for Hack Club.
